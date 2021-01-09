@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"name": "labs",
+		"path": ".."
+	},
+	{
+		"name": "js",
+		"path": "../../../Downloads/bootstrap-4.5.3-dist/js"
+	},
+	{
+		"name": "css",
+		"path": "../../../Downloads/bootstrap-4.5.3-dist/css"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502,
+    "liveServer.settings.multiRootWorkspaceName": "labs"
+  }
+}
